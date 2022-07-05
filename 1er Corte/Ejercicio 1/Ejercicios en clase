@@ -1,0 +1,11 @@
+### Ejercicio 1.
+La empresa XYZ está organizada 
+en departamentos, del se conoce 
+el nombre del departamento, 
+nombre del director y los 
+empleados adscritos. 
+Cada empleado solo puede pertenecer 
+a un solo departamento, y de ellos se 
+conoce su identificación, nombre, sueldo, 
+cargo y dedicación semanal. El sueldo de cada 
+empleado está definido por su cargo. 
